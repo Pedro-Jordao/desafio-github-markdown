@@ -1,6 +1,34 @@
 # desafio-github-markdown
 The following repository was created by me as part of a Bootcamp project for evaluation and approval purposes. Although the task involves basic steps and configurations, the implementation was carried out according to the requirements described in the Challenge Description.
 
+
+# 🛠️ Treinando GitHub
+
+Este repositório foi criado para praticar e explorar funcionalidades do GitHub, como:  
+✅ Pull Requests  
+✅ Forks  
+✅ Issues  
+✅ Criação de README.md  
+✅ Clone de repositórios  
+✅ Entre outros recursos essenciais para colaboração em projetos de software.
+
+## 🚀 Tecnologias e Ferramentas
+
+- **GitHub Copilot** — Assistente de codificação com inteligência artificial.  
+- **Bootstrap** — Framework para estilização responsiva de páginas web.  
+- **HTML & CSS** — Estrutura e estilo das páginas.
+
+## 🚀 Autores:
+Pedro-Jordao & PhJor2 (ou seja, eu e eu mesmo)
+## 📌 Objetivo
+
+Este projeto tem como objetivo aprender na prática os principais fluxos de colaboração no GitHub e reforçar conceitos de desenvolvimento web com HTML, CSS e Bootstrap.
+
+Sinta-se à vontade para contribuir, criar issues, e experimentar forks ou pull requests para melhorar o projeto ou praticar suas habilidades! 🚀
+
+
+
+
 # Mental Health Care Project
 
 This project is a simple web application focused on mental health care. It consists of three main pages: a home page, an article page, and a contact us page. The application is built using HTML, CSS, JavaScript, and the Bootstrap framework for responsive design.
